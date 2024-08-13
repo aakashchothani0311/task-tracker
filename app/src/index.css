@@ -1,0 +1,48 @@
+:root {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+	background-color: #ecf4e1;
+	margin: 0;
+	padding: 0;
+}
+
+.cb {
+	height: 1rem;
+    width: 1rem;
+}
+
+input, textarea {                                                      
+    border: 1px solid #d1d1d1;
+    border-radius: 0.5rem;
+    padding-inline: 0.5rem;
+    font-size: 1rem;
+}
+
+input {
+    height: 1.5rem;
+    width: auto;
+}
+
+textarea {
+    resize: vertical;                                           /* Allows only vertical resize of textarea */
+}
+
+button {          
+	height: 2rem;
+	width: 10rem;                         
+	border: 2px solid #000000;
+	border-radius: 1rem;
+	background-color: #d1d1d1;
+	margin-right: 1rem;
+	font-size: 1rem;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: not-allowed;
+}
