@@ -1,6 +1,6 @@
 ## TaskTracker
 
-A simple MERN stack based application to show a list of tasks that support CRUD operations. The application also supports filtering capabailities to filter the tasks basis created date, title/ description and if the task is already complete.
+A simple MERN stack based application to show a list of tasks and supports CRUD operations. The application also supports filtering capabailities to filter the tasks basis created date, title/ description and if the task is already complete.
 
 ## Instructions to run
 1. Server:
