@@ -2,6 +2,10 @@
 
 A simple MERN stack based application to show a list of tasks and supports CRUD operations. The application also supports filtering capabilities to filter the tasks basis created date, title/ description and if the task is already complete.
 
+<kbd><img width="1470" alt="Home" src="https://github.com/user-attachments/assets/e965f82a-a59b-4251-9e5d-cc19a8398fcd" /></kbd>
+
+<kbd><img width="1470" alt="AddTask" src="https://github.com/user-attachments/assets/5575a552-1886-49a8-951d-4daf83868f62" /></kbd>
+
 ## Setup
 #### Server:
 1. Navigate to the server directory: **cd server**.
